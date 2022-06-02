@@ -3,9 +3,10 @@
 // Microcontroller: Arduino Nano Every
 
 int forceSensorPin = A0;
-int green = 3;
-int blue = 5;
+
 int red = 6;
+int green = 5;
+int blue = 3;
 
 int forceSensorValue = 0;
 unsigned long startTime = 0;
